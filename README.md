@@ -1,1 +1,1 @@
-this was originally for a week-long project, the fork was merged and I was later given the contributor role playing a pivotal role in the final product
+this was originally for a week-long project as a part of our coursework, the fork was merged and my partners later figured out how to give me the contributor role where I went on to create the entire frontend myself
